@@ -2,13 +2,6 @@
 
 # 🏃 Human Activity Recognition — 2D Pose + LSTM RNN
 
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-1.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![LSTM](https://img.shields.io/badge/LSTM-2%20Stacked%20Layers-9B59B6?style=for-the-badge)]()
-[![Accuracy](https://img.shields.io/badge/Accuracy->90%25-brightgreen?style=for-the-badge)]()
-[![ngrok](https://img.shields.io/badge/Deployed-ngrok-1F8ACB?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
-
 > Classifies **6 human activities** from **2D pose time series** (OpenPose keypoints) using a **2-layer stacked LSTM RNN** built in TensorFlow 1.x — achieving **>90% accuracy** in ~7 minutes of training. Deployed via ngrok with a Flask web app.
 
 </div>
