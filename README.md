@@ -9,9 +9,7 @@
 [![ngrok](https://img.shields.io/badge/Deployed-ngrok-1F8ACB?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
 
-> Classifies **6 human activities** from **2D pose time series** (OpenPose keypoints) using a **2-layer stacked LSTM RNN** built in TensorFlow 1.x — achieving **>90% accuracy** in ~7 minutes of training. Deployed via ngrok with a Flask web app and `sample_video.mp4` demo.
-
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
+> Classifies **6 human activities** from **2D pose time series** (OpenPose keypoints) using a **2-layer stacked LSTM RNN** built in TensorFlow 1.x — achieving **>90% accuracy** in ~7 minutes of training. Deployed via ngrok with a Flask web app.
 
 </div>
 
